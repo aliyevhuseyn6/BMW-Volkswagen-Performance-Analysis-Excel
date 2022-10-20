@@ -12,4 +12,3 @@ The period under consideration is Fiscal Years 2018, 2019, 2020, and 2021.
 The Financial reports were obtained from the Investing.com website:
    * BMW's Financial Report: https://www.investing.com/equities/bay-mot-werke-financial-summary
    * Volkswagen's Financial Report: https://www.investing.com/equities/volkswagen-ag-financial-summary
-   * Equations are taken from the following source: https://www.accaglobal.com/vn/en/student/exam-support-resources/fundamentals-exams-study-resources/f2/technical-articles/ratio-analysis.html
